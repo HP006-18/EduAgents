@@ -1,0 +1,8 @@
+student_id,timestamp,exercise_id,skill,correct,time_spent
+s1,2025-01-01 09:00:00,e1,fractions,1,45
+s1,2025-01-01 09:10:00,e2,fractions,0,60
+s1,2025-01-02 09:00:00,e6,algebra,0,30
+s2,2025-01-02 10:00:00,e3,algebra,1,30
+s2,2025-01-02 10:15:00,e4,algebra,1,50
+s3,2025-01-03 11:00:00,e5,geometry,0,40
+s3,2025-01-03 11:20:00,e7,geometry,1,25
